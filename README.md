@@ -54,14 +54,19 @@ Open API routes in Insomnia Core for categories, products, or tags. The data for
 Test API POST, PUT, and DELETE routes in Insomnia Core. You should be able to successfully create, update, and delete data in your database.
 
 
-Technologies Used
+## Technologies Used
 Express.js
 MySQL
 Sequelize
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+## Further Development
+-need to add a seeding function to cut time on adding data to the database
+
+-some how add a way to add images to the products
+
+## License and Copywrite
 
 License
 MIT
