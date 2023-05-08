@@ -23,7 +23,7 @@ Clone the repository and navigate to the project directory.
 
 bash
 Copy code
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/griffinwoj/Hello-E-Comm
 cd repo-name
 Install the dependencies.
 
@@ -52,6 +52,9 @@ npm start
 Open API routes in Insomnia Core for categories, products, or tags. The data for each of these routes is displayed in a formatted JSON.
 
 Test API POST, PUT, and DELETE routes in Insomnia Core. You should be able to successfully create, update, and delete data in your database.
+
+## Walkthrough Video
+https://watch.screencastify.com/v/p3DAcfGCHciIv3Aghjku
 
 
 ## Technologies Used
