@@ -20,7 +20,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 ## Installation
 Clone the repository and navigate to the project directory.
-
+```md
 bash
 Copy code
 git clone https://github.com/griffinwoj/Hello-E-Comm
@@ -50,7 +50,7 @@ bash
 Copy code
 npm start
 Open API routes in Insomnia Core for categories, products, or tags. The data for each of these routes is displayed in a formatted JSON.
-
+```
 Test API POST, PUT, and DELETE routes in Insomnia Core. You should be able to successfully create, update, and delete data in your database.
 
 ## Walkthrough Video
