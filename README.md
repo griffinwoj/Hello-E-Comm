@@ -66,10 +66,16 @@ https://watch.screencastify.com/v/p3DAcfGCHciIv3Aghjku
 
 ## Technologies Used
 
+```md
 Express.js
 MySQL
 Sequelize
 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+```
+
+## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Further Development
